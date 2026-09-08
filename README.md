@@ -68,7 +68,7 @@ To investigate robustness under non-ideal experimental conditions, noise was int
 
 ### Theoretical 3D Distribution
 
-![Theoretical 3D photoelectron distribution](examples/theoretical_distribution_linear.jpg)
+examples/3d theoretical distribution linear.jpg
 
 ### Simulated Detector Projection
 
