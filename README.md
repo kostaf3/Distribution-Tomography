@@ -2,7 +2,7 @@
 
 This project was developed as part of my M.Sc. thesis in Physics at the University of Ioannina.
 
-It implements a **Mathematica-based simulation and reconstruction workflow** for generating 2D detector projections of theoretical 3D photoelectron angular distributions and reconstructing the original distribution using tomography.
+It implements a **Mathematica-based simulation and reconstruction environment** for generating 2D detector projections of theoretical 3D photoelectron angular distributions and reconstructing the original distribution using tomography.
 
 ## Workflow
 
