@@ -1,1 +1,8 @@
+### Instructions
+
+1. Download both notebooks from the GitHub repository and save them in the same local folder.
+2. Open the notebooks locally using Wolfram Mathematica.
+3. Run `photoelectron_simulation_and_projection.nb` first to generate and export the simulated projection data.
+4. Open `tomographic_reconstruction.nb` and import the generated `.dat` files to reconstruct the 3D distribution.
+
 
