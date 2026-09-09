@@ -37,7 +37,7 @@ The notebooks are available in [`notebooks/`](notebooks/).
 
 ## Validation
 
-For linear polarization, the tomographic reconstruction was compared with the **inverse Abel transform**. The method was also tested for circular and elliptical polarization, where the symmetry requirements of the Abel approach restrict its applicability.
+For linear polarization, the tomographic reconstruction was compared with the **inverse Abel transform**. The method was also tested for circular and elliptical polarization, where the symmetry requirements of the Abel method are not met.
 
 Robustness was evaluated by introducing simulated noise into the projections, with reconstruction tested at noise levels up to **5% of the maximum signal**.
 
