@@ -25,9 +25,15 @@ The notebooks are available in [`notebooks/`](notebooks/).
 
 ![Simulated projection](examples/simulated_projection_linear.png)
 
-### Tomographic Reconstruction
+### Tomographic Reconstruction of one slice
 
 ![Reconstructed slice](examples/reconstructed_slice_linear.png)
+
+### Tomographic Reconstruction of 3D distribution
+
+![Reconstructed 3D distribution](examples/linear_3d_tomography_reconstructed.jpg)
+
+
 
 ## Validation
 
